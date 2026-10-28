@@ -1,0 +1,393 @@
+Station,Station ID,Latitude,Longitude,Source
+0001 10th & Cambie,0001,49.262487,-123.114397,gbfs_id
+0002 Burrard Station (Melville & Dunsmuir),0002,49.285871,-123.121050,gbfs_id
+Burrard Station (Melville & Dunsmuir),0002,49.285871,-123.121050,gbfs_name
+0004 Yaletown-Roundhouse Station,0004,49.274566,-123.121817,gbfs_id
+0005 Dunsmuir & Beatty,0005,49.279764,-123.110154,gbfs_id
+Dunsmuir & Beatty,0005,49.279764,-123.110154,gbfs_name
+0006 Olympic Village Station,0006,49.266314,-123.116011,gbfs_id
+Olympic Village Station,0006,49.266314,-123.116011,gbfs_name
+0007 12th & Yukon (City Hall),0007,49.260599,-123.113504,gbfs_id
+12th & Yukon (City Hall),0007,49.260599,-123.113504,gbfs_name
+0008 7th & Ash,0008,49.264960,-123.116934,gbfs_id
+0008 8th & Ash,0008,49.264176,-123.117463,bc_geocoder
+0009 Spyglass & Seawall,0009,49.270877,-123.115103,gbfs_id
+0010 Stamps Landing,0010,49.268930,-123.118130,gbfs_id
+0011 Ontario & Seawall,0011,49.271721,-123.104207,gbfs_id
+0012 Dunsmuir & Richards,0012,49.282214,-123.114101,gbfs_id
+Dunsmuir & Richards,0012,49.282214,-123.114101,gbfs_name
+0013 Maple Tree Square,0013,49.283482,-123.103738,gbfs_id
+Maple Tree Square,0013,49.283482,-123.103738,gbfs_name
+0014 Canada Place,0014,49.287250,-123.112980,gbfs_id
+Canada Place,0014,49.287250,-123.112980,gbfs_name
+0015 Granville & Georgia,0015,49.282409,-123.118541,gbfs_id
+Granville & Georgia,0015,49.282409,-123.118541,gbfs_name
+0016 Pender & Burrard,0016,49.287097,-123.118551,gbfs_id
+0017 Marinaside & Davie,0017,49.273471,-123.118016,gbfs_id
+Marinaside & Davie,0017,49.273471,-123.118016,gbfs_name
+0019 Robson & Hornby,0019,49.282758,-123.122092,gbfs_id
+Robson & Hornby,0019,49.282758,-123.122092,gbfs_name
+0021 Cordova & Granville,0021,49.285670,-123.112543,gbfs_id
+0024 Hornby & Pender,0024,49.286020,-123.116624,gbfs_id
+Hornby & Pender,0024,49.286020,-123.116624,gbfs_name
+0025 Homer & Robson (Vancouver Public Library),0025,49.279739,-123.116251,gbfs_id
+0026 Beatty & Robson,0026,49.277440,-123.114320,gbfs_id
+0026 Robson & Beatty,0026,49.277440,-123.114320,gbfs_id
+0027 Beatty & Nelson,0027,49.275679,-123.116963,gbfs_id
+0028 Davie & Beach,0028,49.287528,-123.142139,gbfs_id
+Davie & Beach,0028,49.287528,-123.142139,gbfs_name
+0030 Abbott & Cordova,0030,49.282710,-123.106830,gbfs_id
+Abbott & Cordova,0030,49.282710,-123.106830,gbfs_name
+0031 Morton & Denman,0031,49.288030,-123.142135,gbfs_id
+Morton & Denman,0031,49.288030,-123.142135,gbfs_name
+0032 Comox & Denman,0032,49.288444,-123.139203,gbfs_id
+Comox & Denman,0032,49.288444,-123.139203,gbfs_name
+0034 Cordova & Bute,0034,49.289124,-123.121960,gbfs_id
+0035 Hastings & Broughton,0035,49.289990,-123.126793,bc_geocoder
+0036 Bute & Robson,0036,49.286160,-123.126750,gbfs_id
+0037 Hornby & Nelson,0037,49.280620,-123.124820,gbfs_id
+0039 Helmcken & Burrard,0039,49.279938,-123.127478,gbfs_id
+Helmcken & Burrard,0039,49.279938,-123.127478,gbfs_name
+0040 Cardero & Davie,0040,49.285512,-123.138400,gbfs_id
+Cardero & Davie,0040,49.285512,-123.138400,gbfs_name
+0041 Cardero & Robson,0041,49.289255,-123.132677,gbfs_id
+Cardero & Robson,0041,49.289255,-123.132677,gbfs_name
+0044 Pacific & Richards,0044,49.273663,-123.127075,gbfs_id
+Pacific & Richards,0044,49.273663,-123.127075,gbfs_name
+0045 Beach & Hornby,0045,49.275510,-123.133070,gbfs_id
+Beach & Hornby,0045,49.275510,-123.133070,gbfs_name
+0047 Chilco & Beach,0047,49.289720,-123.144028,gbfs_id
+0048 Comox & Broughton,0048,49.285253,-123.134356,gbfs_id
+0050 Bute & Comox,0050,49.283343,-123.131099,gbfs_id
+Bute & Comox,0050,49.283343,-123.131099,gbfs_name
+0052 Cambie & Water,0052,49.284605,-123.108662,gbfs_id
+0053 Keefer & Abbott,0053,49.279821,-123.108020,gbfs_id
+Keefer & Abbott,0053,49.279821,-123.108020,gbfs_name
+0054 Expo & Carrall,0054,49.278004,-123.105664,gbfs_id
+0055 Keefer & Columbia,0055,49.279342,-123.101822,gbfs_id
+Keefer & Columbia,0055,49.279342,-123.101822,gbfs_name
+0057 Marinaside & Cooperage,0057,49.273833,-123.114373,gbfs_id
+Marinaside & Cooperage,0057,49.273833,-123.114373,gbfs_name
+0058 Richards & Smithe,0058,49.279259,-123.119145,gbfs_id
+Richards & Smithe,0058,49.279259,-123.119145,gbfs_name
+0060 Bidwell & Burnaby,0060,49.285260,-123.141809,gbfs_id
+Bidwell & Burnaby,0060,49.285260,-123.141809,gbfs_name
+0063 Robson & Granville,0063,49.281506,-123.120101,gbfs_id
+Robson & Granville,0063,49.281506,-123.120101,gbfs_name
+0064 Expo & Smithe,0064,49.276115,-123.114496,gbfs_id
+Expo & Smithe,0064,49.276115,-123.114496,gbfs_name
+0065 Cypress & Cornwall,0065,49.272827,-123.147744,gbfs_id
+0066 Anderson & 2nd,0066,49.269361,-123.137820,gbfs_id
+Anderson & 2nd,0066,49.269361,-123.137820,gbfs_name
+0068 Cypress & 10th,0068,49.262944,-123.148109,gbfs_id
+0069 7th & Granville,0069,49.265300,-123.138110,gbfs_id
+0070 10th & Granville,0070,49.262598,-123.138921,gbfs_id
+0071 14th & Granville,0071,49.258935,-123.139031,gbfs_id
+0072 14th & Cambie,0072,49.258763,-123.115392,gbfs_id
+0073 Ontario & 5th,0073,49.266724,-123.104824,gbfs_id
+Ontario & 5th,0073,49.266724,-123.104824,gbfs_name
+0074 10th & Main,0074,49.262141,-123.101961,gbfs_id
+10th & Main,0074,49.262141,-123.101961,gbfs_name
+0075 Arbutus & 10th,0075,49.262835,-123.152626,gbfs_id
+Arbutus & 10th,0075,49.262835,-123.152626,gbfs_name
+0076 Cypress & 4th,0076,49.268269,-123.147885,gbfs_id
+Cypress & 4th,0076,49.268269,-123.147885,gbfs_name
+0077 Vanier Park,0077,49.275717,-123.142564,gbfs_id
+0078 Nelson & Mainland,0078,49.276436,-123.118770,gbfs_id
+Nelson & Mainland,0078,49.276436,-123.118770,gbfs_name
+0079 Nelson & Richards,0079,49.277844,-123.120942,gbfs_id
+0081 7th & Heather,0081,49.265089,-123.119425,gbfs_id
+0082 Richards & Davie,0082,49.275683,-123.124388,gbfs_id
+Richards & Davie,0082,49.275683,-123.124388,gbfs_name
+0083 Aquatic Centre,0083,49.278210,-123.136972,gbfs_id
+Aquatic Centre,0083,49.278210,-123.136972,gbfs_name
+0084 Beach & Broughton,0084,49.281301,-123.139108,gbfs_id
+Beach & Broughton,0084,49.281301,-123.139108,gbfs_name
+0087 Broughton & Davie,0087,49.283749,-123.136133,gbfs_id
+Broughton & Davie,0087,49.283749,-123.136133,gbfs_name
+0088 Harwood & Bute,0088,49.280260,-123.135244,gbfs_id
+0089 Burrard & Drake,0089,49.278080,-123.130557,gbfs_id
+Burrard & Drake,0089,49.278080,-123.130557,gbfs_name
+0092 Chilco & Barclay,0092,49.291909,-123.140713,gbfs_id
+Chilco & Barclay,0092,49.291909,-123.140713,gbfs_name
+0093 Chilco & Robson,0093,49.293257,-123.138563,gbfs_id
+0096 Nicola & Robson,0096,49.288506,-123.131238,gbfs_id
+Nicola & Robson,0096,49.288506,-123.131238,gbfs_name
+0098 Carrall & Hastings,0098,49.281170,-123.104419,gbfs_id
+0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,0099,49.283227,-123.120523,gbfs_id
+šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,0099,49.283227,-123.120523,gbfs_name
+0101 Stanley Park - Vancouver Aquarium,0101,49.299292,-123.130281,gbfs_id
+0102 Stanley Park - Second Beach North,0102,49.295350,-123.150740,gbfs_id
+Stanley Park - Second Beach North,0102,49.295350,-123.150740,gbfs_name
+0103 Stanley Park - Third Beach Parking Lot,0103,49.302577,-123.155616,gbfs_id
+Stanley Park - Third Beach Parking Lot,0103,49.302577,-123.155616,gbfs_name
+0104 Stanley Park - Second Beach South,0104,49.294318,-123.148808,gbfs_id
+Stanley Park - Second Beach South,0104,49.294318,-123.148808,gbfs_name
+0105 Stanley Park - Totem Poles,0105,49.298657,-123.121176,gbfs_id
+Stanley Park - Totem Poles,0105,49.298657,-123.121176,gbfs_name
+0106 Heather & 14th,0106,49.259183,-123.120126,gbfs_id
+Heather & 14th,0106,49.259183,-123.120126,gbfs_name
+0107 8th & Ontario,0107,49.263837,-123.105173,gbfs_id
+0108 1st & Chestnut,0108,49.270721,-123.146175,gbfs_id
+1st & Chestnut,0108,49.270721,-123.146175,gbfs_name
+0109 7th & Arbutus,0109,49.265605,-123.152566,gbfs_id
+7th & Arbutus,0109,49.265605,-123.152566,gbfs_name
+0110 5th & Arbutus,0110,49.267222,-123.153157,gbfs_id
+0113 Arbutus & 16th,0113,49.257654,-123.153212,gbfs_id
+0114 Cypress & 14th,0114,49.259190,-123.148268,gbfs_id
+0115 Cypress & 16th,0115,49.257222,-123.148371,bc_geocoder
+0115 Cypress & 16th - Removed Permanently,0115,49.257222,-123.148371,bc_geocoder
+0119 Quebec & 3rd,0119,49.268530,-123.102660,gbfs_id
+Quebec & 3rd,0119,49.268530,-123.102660,gbfs_name
+0121 Heather & 10th,0121,49.262130,-123.119890,gbfs_id
+Heather & 10th,0121,49.262130,-123.119890,gbfs_name
+0122 Haro & Denman,0122,49.290587,-123.136250,gbfs_id
+0124 Richards & Cordova,0124,49.284554,-123.111031,gbfs_id
+Richards & Cordova,0124,49.284554,-123.111031,gbfs_name
+0126 Thurlow & Pendrell,0126,49.280881,-123.130672,gbfs_id
+0129 Richards & Robson,0129,49.280216,-123.117639,gbfs_id
+Richards & Robson,0129,49.280216,-123.117639,gbfs_name
+0130 Heather & 16th,0130,49.256845,-123.120071,gbfs_id
+0132 14th & Ontario,0132,49.258490,-123.104799,gbfs_id
+0133 Ontario & 16th,0133,49.256825,-123.105234,gbfs_id
+0134 14th & Main,0134,49.258450,-123.100377,gbfs_id
+0136 David Lam Park,0136,49.270905,-123.126006,gbfs_id
+David Lam Park,0136,49.270905,-123.126006,gbfs_name
+0137 Beach & Seymour,0137,49.273568,-123.129935,gbfs_id
+0138 Richards & Helmcken,0138,49.277141,-123.122589,gbfs_id
+Richards & Helmcken,0138,49.277141,-123.122589,gbfs_name
+0139 Burrard & 4th,0139,49.267859,-123.145782,gbfs_id
+Burrard & 4th,0139,49.267859,-123.145782,gbfs_name
+0140 Burrard & 7th,0140,49.265336,-123.145823,gbfs_id
+Burrard & 7th,0140,49.265336,-123.145823,gbfs_name
+0142 Beach & Cardero,0142,49.283298,-123.142288,gbfs_id
+Beach & Cardero,0142,49.283298,-123.142288,gbfs_name
+0143 Charleson Park,0143,49.267628,-123.127698,gbfs_id
+0144 Wylie & 2nd,0144,49.267725,-123.113110,gbfs_id
+Wylie & 2nd,0144,49.267725,-123.113110,gbfs_name
+0147 Chestnut & McNicoll,0147,49.275938,-123.145939,gbfs_id
+0148 Creekside Park North,0148,49.275600,-123.102660,gbfs_id
+Creekside Park North,0148,49.275600,-123.102660,gbfs_name
+0150 Alexander & Main,0150,49.284157,-123.099917,gbfs_id
+Alexander & Main,0150,49.284157,-123.099917,gbfs_name
+0152 Arbutus Greenway & 14th,0152,49.258924,-123.152591,gbfs_id
+0153 Arbutus Greenway & Fir,0153,49.266774,-123.141135,gbfs_id
+0154 Kitsilano Beach Park,0154,49.273355,-123.154493,gbfs_id
+Kitsilano Beach Park,0154,49.273355,-123.154493,gbfs_name
+0155 McNicoll & Arbutus,0155,49.276292,-123.150592,gbfs_id
+0159 Vine & 4th,0159,49.268339,-123.157443,gbfs_id
+0161 Alexander & Dunlevy,0161,49.284062,-123.095097,gbfs_id
+0165 Columbia & 5th,0165,49.266476,-123.109389,gbfs_id
+0166 Alder & 11th,0166,49.261742,-123.131480,gbfs_id
+0170 8th & Yukon,0170,49.263910,-123.112874,bc_geocoder
+8th & Yukon,0170,49.263910,-123.112874,bc_geocoder
+0171 Yukon & 6th,0171,49.265939,-123.112900,gbfs_id
+Yukon & 6th,0171,49.265939,-123.112900,gbfs_name
+0172 10th & Columbia,0172,49.262206,-123.109091,gbfs_id
+0173 Columbia & 1st,0173,49.269969,-123.109623,gbfs_id
+0174 1st & Manitoba,0174,49.270230,-123.106510,gbfs_id
+0176 10th & Ontario,0176,49.262062,-123.104656,gbfs_id
+0177 Quebec & 1st,0177,49.270330,-123.102750,gbfs_id
+0179 11th & Kingsway,0179,49.261122,-123.097571,gbfs_id
+0180 Columbia & 14th,0180,49.258902,-123.109596,gbfs_id
+0181 Denman & Bayshore,0181,49.293264,-123.132861,gbfs_id
+0186 10th & Kingsway,0186,49.261973,-123.097250,gbfs_id
+10th & Kingsway,0186,49.261973,-123.097250,gbfs_name
+0187 Bute & Davie,0187,49.282260,-123.132710,gbfs_id
+0189 Granville Island,0189,49.270290,-123.135025,gbfs_id
+Granville Island,0189,49.270290,-123.135025,gbfs_name
+0190 Melville & Bute,0190,49.287782,-123.123950,gbfs_id
+Melville & Bute,0190,49.287782,-123.123950,gbfs_name
+0191 7th & Laurel,0191,49.265071,-123.123864,gbfs_id
+0192 7th &  Alder,0192,49.265198,-123.131043,gbfs_id
+7th &  Alder,0192,49.265198,-123.131043,gbfs_name
+0193 Science World,0193,49.273691,-123.102232,gbfs_id
+Science World,0193,49.273691,-123.102232,gbfs_name
+0196 Hornby & Drake,0196,49.277178,-123.130000,gbfs_id
+Hornby & Drake,0196,49.277178,-123.130000,gbfs_name
+0197 1st & Scotia,0197,49.268503,-123.097501,gbfs_id
+0198 5th & Main,0198,49.266456,-123.100324,gbfs_id
+5th & Main,0198,49.266456,-123.100324,gbfs_name
+0199 Georgia & Main,0199,49.278529,-123.100017,gbfs_id
+0200 Cardero & Bayshore,0200,49.291597,-123.129158,gbfs_id
+Cardero & Bayshore,0200,49.291597,-123.129158,gbfs_name
+0201 Rogers Tower,0201,49.288682,-123.118180,gbfs_id
+Rogers Tower,0201,49.288682,-123.118180,gbfs_name
+0202 14th & Oak,0202,49.258761,-123.127071,gbfs_id
+14th & Oak,0202,49.258761,-123.127071,gbfs_name
+0204 York & Yew,0204,49.271741,-123.155421,gbfs_id
+0205 Pine & 10th,0205,49.262822,-123.143380,gbfs_id
+Pine & 10th,0205,49.262822,-123.143380,gbfs_name
+0206 8th & Scotia,0206,49.263635,-123.099236,gbfs_id
+0207 Alberni & Jervis,0207,49.287630,-123.127245,gbfs_id
+Alberni & Jervis,0207,49.287630,-123.127245,gbfs_name
+0209 Stanley Park - Information Booth,0209,49.297933,-123.130758,gbfs_id
+Stanley Park - Information Booth,0209,49.297933,-123.130758,gbfs_name
+0210 Burrard & 14th,0210,49.259469,-123.145718,gbfs_id
+0211 14th & Alder,0211,49.258819,-123.131317,gbfs_id
+0212 Union & Dunlevy,0212,49.277595,-123.095830,gbfs_id
+Union & Dunlevy,0212,49.277595,-123.095830,gbfs_name
+0213 Pender & Gore,0213,49.280284,-123.097052,gbfs_id
+0215 Princess & Union,0215,49.277615,-123.091654,gbfs_id
+0217 Smithe & Burrard,0217,49.282503,-123.124697,gbfs_id
+0218 Carrall & Seawall,0218,49.276294,-123.106534,gbfs_id
+0219 Hawks & Union,0219,49.277333,-123.087359,gbfs_id
+0221 Glen & Union,0221,49.277469,-123.081315,gbfs_id
+0222 Adanac & McLean,0222,49.277665,-123.073653,gbfs_id
+0223 Commercial & Adanac,0223,49.277436,-123.070427,gbfs_id
+Commercial & Adanac,0223,49.277436,-123.070427,gbfs_name
+0224 Pender & Commercial,0224,49.280332,-123.070068,gbfs_id
+0225 McLean & Pender,0225,49.280427,-123.074082,gbfs_id
+0227 Campbell & Hastings,0227,49.280852,-123.084746,gbfs_id
+Campbell & Hastings,0227,49.280852,-123.084746,gbfs_name
+0228 Keefer & Hawks,0228,49.279235,-123.087528,gbfs_id
+0229 Keefer & Princess,0229,49.279369,-123.091241,gbfs_id
+0230 Alexander & Railway,0230,49.283992,-123.091206,gbfs_id
+0231 Napier & Commercial,0231,49.274881,-123.069323,gbfs_id
+0232 Britannia Parking Lot,0232,49.275882,-123.071865,gbfs_id
+0233 Thornton & National,0233,49.273777,-123.092723,gbfs_id
+0235 Charles & Commercial,0235,49.273103,-123.069892,gbfs_id
+Charles & Commercial,0235,49.273103,-123.069892,gbfs_name
+0236 Keith & 6th,0236,49.265005,-123.079481,gbfs_id
+0239 Grant & Commercial,0239,49.271377,-123.069416,gbfs_id
+0240 2nd & Commercial,0240,49.268616,-123.069908,gbfs_id
+2nd & Commercial,0240,49.268616,-123.069908,gbfs_name
+0241 4th & Commercial,0241,49.266969,-123.069936,gbfs_id
+0242 8th & Commercial,0242,49.263242,-123.070521,gbfs_id
+0244 10th & Commercial,0244,49.261403,-123.070102,gbfs_id
+0245 Woodland & 10th,0245,49.261263,-123.073707,gbfs_id
+0246 Glen & Broadway,0246,49.262242,-123.081459,gbfs_id
+0248 St George & Broadway,0248,49.262321,-123.093060,gbfs_id
+0249 7th & Woodland,0249,49.264251,-123.073853,gbfs_id
+0250 Woodland & 4th,0250,49.266751,-123.073501,gbfs_id
+0252 Woodland & Graveley,0252,49.270684,-123.073562,gbfs_id
+0253 Charles & Woodland,0253,49.273100,-123.073200,gbfs_id
+0254 Grandview & Commercial,0254,49.263746,-123.069892,gbfs_id
+0255 18th & Main,0255,49.254667,-123.101389,gbfs_id
+0256 Prince Edward & 16th,0256,49.256694,-123.096579,gbfs_id
+0257 Prince Edward & 14th,0257,49.258352,-123.096337,gbfs_id
+Prince Edward & 14th,0257,49.258352,-123.096337,gbfs_name
+0258 13th & St George,0258,49.258817,-123.092797,gbfs_id
+0260 10th & Fraser,0260,49.261510,-123.089413,gbfs_id
+0261 8th & Fraser,0261,49.263382,-123.088837,gbfs_id
+0262 8th & Prince Edward,0262,49.263518,-123.095680,gbfs_id
+0265 St Catherines & 10th,0265,49.261353,-123.085333,gbfs_id
+0266 St Catherines & 7th,0266,49.264466,-123.085183,gbfs_id
+0272 Pender & Victoria,0272,49.280197,-123.065859,gbfs_id
+0273 Victoria & 4th,0273,49.266725,-123.065925,gbfs_id
+0274 Victoria & 10th,0274,49.261188,-123.066009,gbfs_id
+Victoria & 10th,0274,49.261188,-123.066009,gbfs_name
+0278 15th & Victoria (Trout Lake),0278,49.256857,-123.065646,gbfs_id
+0280 Triumph & Victoria,0280,49.283986,-123.065264,gbfs_id
+Triumph & Victoria,0280,49.283986,-123.065264,gbfs_name
+0281 Windsor & 14th,0281,49.257985,-123.083366,gbfs_id
+0282 14th & Fraser,0282,49.257939,-123.089531,gbfs_id
+0283 15th & Knight,0283,49.256496,-123.075426,gbfs_id
+0285 Commercial & Pandora,0285,49.283236,-123.070443,gbfs_id
+0287 Carolina & Great Northern Way,0287,49.267266,-123.090786,gbfs_id
+0297 6th & Prince Edward,0297,49.265242,-123.095577,gbfs_id
+0298 6th & Carolina,0298,49.265213,-123.090785,gbfs_id
+0300 Bute & Barclay,0300,49.284893,-123.128685,gbfs_id
+Bute & Barclay,0300,49.284893,-123.128685,gbfs_name
+0305 Georgia & Homer,0305,49.280787,-123.115271,gbfs_id
+Georgia & Homer,0305,49.280787,-123.115271,gbfs_name
+0308 Seymour & Cordova,0308,49.285120,-123.112420,gbfs_id
+0310 Jervis & Robson,0310,49.286646,-123.129232,gbfs_id
+Jervis & Robson,0310,49.286646,-123.129232,gbfs_name
+0311 13th & Cambie,0311,49.259579,-123.114769,gbfs_id
+13th & Cambie,0311,49.259579,-123.114769,gbfs_name
+0313 Nelson & Denman,0313,49.289071,-123.138407,gbfs_id
+0314 Rolston & Granville,0314,49.274232,-123.129998,gbfs_id
+Rolston & Granville,0314,49.274232,-123.129998,gbfs_name
+0318 Granville & Neon,0318,49.275490,-123.128820,gbfs_id
+Granville & Neon,0318,49.275490,-123.128820,gbfs_name
+0319 Pacific & Rolston,0319,49.274900,-123.128980,gbfs_id
+0352 Commercial & 20th,0352,49.252656,-123.067965,gbfs_id
+Commercial & 20th,0352,49.252656,-123.067965,gbfs_name
+0354 Station & Terminal,0354,49.272172,-123.097978,gbfs_id
+0400 Jericho Beach,0400,49.271221,-123.191133,gbfs_id
+Jericho Beach,0400,49.271221,-123.191133,gbfs_name
+0401 Wallace & 4th,0401,49.268592,-123.190658,bc_geocoder
+0401 Wallace & 4th - Removed Permanently,0401,49.268592,-123.190658,bc_geocoder
+0403 Highbury & 8th,0403,49.265264,-123.187793,bc_geocoder
+0410 Alma & Point Grey,0410,49.272470,-123.185643,gbfs_id
+0414 Dunbar & 6th,0414,49.266636,-123.183661,gbfs_id
+0415 Dunbar & Broadway,0415,49.264579,-123.183730,gbfs_id
+0431 Blenheim & 4th,0431,49.268837,-123.177633,gbfs_id
+0440 Point Grey & Blenheim,0440,49.271471,-123.177310,gbfs_id
+0443 Balaclava & 6th,0443,49.266924,-123.173849,gbfs_id
+0444 Balaclava & Broadway,0444,49.264483,-123.173926,gbfs_id
+Balaclava & Broadway,0444,49.264483,-123.173926,gbfs_name
+0450 Point Grey & Bayswater,0450,49.271044,-123.170661,gbfs_id
+0452 8th & Macdonald,0452,49.264928,-123.168068,gbfs_id
+0460 Trafalgar & Cornwall,0460,49.272969,-123.164325,gbfs_id
+Trafalgar & Cornwall,0460,49.272969,-123.164325,gbfs_name
+0464 Trafalgar & Broadway,0464,49.264326,-123.164725,gbfs_id
+0470 Balsam & Cornwall,0470,49.273011,-123.159663,gbfs_id
+0480 Arbutus & Nanton,0480,49.247854,-123.153422,gbfs_id
+0482 East Blvd & 37th,0482,49.238161,-123.155117,gbfs_id
+0484 Yew & Broadway,0484,49.263523,-123.155267,gbfs_id
+Yew & Broadway,0484,49.263523,-123.155267,gbfs_name
+0505 28th & Willow,0505,49.246243,-123.124373,gbfs_id
+28th & Willow,0505,49.246243,-123.124373,gbfs_name
+0511 Heather & 18th,0511,49.255034,-123.120226,gbfs_id
+0516 Heather & 29th,0516,49.245535,-123.120496,gbfs_id
+Heather & 29th,0516,49.245535,-123.120496,gbfs_name
+0524 King Edward & Cambie,0524,49.249184,-123.116141,gbfs_id
+0526 29th & Cambie,0526,49.245135,-123.116098,gbfs_id
+0531 18th & Cambie,0531,49.254818,-123.114785,gbfs_id
+0532 22nd & Cambie,0532,49.251358,-123.115637,gbfs_id
+0554 Ontario & 23rd,0554,49.249722,-123.104991,gbfs_id
+0557 30th & Ontario,0557,49.243375,-123.104978,gbfs_id
+30th & Ontario,0557,49.243375,-123.104978,gbfs_name
+0561 20th & Main,0561,49.252691,-123.101289,gbfs_id
+20th & Main,0561,49.252691,-123.101289,gbfs_name
+0563 22nd & Main,0563,49.250940,-123.101306,gbfs_id
+0565 26th & Main,0565,49.247970,-123.101510,gbfs_id
+0565 27th & Main,0565,49.247229,-123.101151,bc_geocoder
+0611 Wall & Eton,0611,49.287464,-123.060771,gbfs_id
+0617 Adanac & Lakewood,0617,49.277510,-123.061429,gbfs_id
+0621 Lakewood & Oxford,0621,49.285575,-123.061575,gbfs_id
+0631 Lakewood & Triumph,0631,49.283968,-123.061615,gbfs_id
+0642 Franklin & Nanaimo,0642,49.282087,-123.056909,gbfs_id
+0643 Callister Park - Fan Fest,0643,49.286201,-123.045408,osm
+0645 Pandora & Renfrew,0645,49.283000,-123.044630,gbfs_id
+0715 Trimble & 8th,0715,49.265800,-123.205960,gbfs_id
+0716 Sasamat & 10th,0716,49.264019,-123.209176,gbfs_id
+0801 Spanish Banks East,0801,49.275955,-123.214830,osm
+0801 Spanish Banks East - Removed for the season,0801,49.275955,-123.214830,osm
+0980 Workshop - Balancer Bike Check In,0980,,,
+0981 Workshop - Service Complete,0981,,,
+0982 Workshop - Bike Testing,0982,,,
+0991 HQ Workshop,0991,,,
+0992 Workshop - Transmitter Storage,0992,,,
+0994 Workshop - Transmitter Testing,0994,,,
+0995 Workshop - Transmitter On Deck,0995,,,
+0997 Workshop - Demo Station,0997,,,
+2001 Great Outdoor Comedy Festival - Mobi Valet,2001,,,
+2002 Station State Testing,2002,,,
+2025 Yard Rebrand Station,2025,,,
+2026 Mobi Last Mile Bike Valet - OPEN!,2026,,,
+2026 Mobi Last Mile Bike Valet: Returning July 2,2026,,,
+2026 Valet Station,2026,,,
+2112 Place Vanier,2112,49.265180,-123.258680,gbfs_id
+2114 West Mall Swing Space Building,2114,49.263073,-123.254307,gbfs_id
+2116 Orchard Commons,2116,49.259999,-123.250902,gbfs_id
+2117 Totem Park,2117,49.258500,-123.252100,gbfs_id
+2127 Thunderbird & Thunderbird,2127,49.259760,-123.247900,gbfs_id
+2131 Brock Commons,2131,49.269172,-123.252790,gbfs_id
+2132 IK Barber Learning Centre,2132,49.267561,-123.252261,gbfs_id
+2134 UBC Bookstore,2134,49.265207,-123.250139,gbfs_id
+2136 Agronomy & East Mall,2136,49.261736,-123.246480,gbfs_id
+2142 qəlɬaləməcən leləm | Orca House,2142,49.268750,-123.250040,gbfs_id
+2143 War Memorial Gym,2143,49.266579,-123.248549,gbfs_id
+2154 Strangway Building,2154,49.266100,-123.245680,gbfs_id
+2156 Pharmaceutical Sciences,2156,49.262620,-123.243100,gbfs_id
+2157 Thunderbird Parkade,2157,49.261655,-123.241924,gbfs_id
+2167 Acadia Park,2167,49.262780,-123.237120,gbfs_id
+Acadia Park,2167,49.262780,-123.237120,gbfs_name
+2252 Wesbrook Village - Berton & Shrum,2252,49.254780,-123.236210,gbfs_id
+Wesbrook Village - Berton & Shrum,2252,49.254780,-123.236210,gbfs_name
+2255 Binning & Wesbrook,2255,49.250600,-123.232380,gbfs_id
+Workshop - Ebike Charging,,,,
+Workshop - Service Complete,,,,

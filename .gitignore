@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+.playwright-mcp
+
+# macOS
+.DS_Store
+
+# Derived by prep.py from data/original_data (66 MB; rebuilds in seconds)
+data/trips_clean.csv
+
+# Output of various scripts
+analysis/output
+
+# Overpass extract, ~50 MB; run data/osm/download.sh to fetch it
+data/osm/*.json
+
+# Terrain tiles for slope-aware routing; run data/elevation/download.sh
+data/elevation/[0-9]*/
