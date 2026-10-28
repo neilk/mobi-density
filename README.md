@@ -4,8 +4,10 @@
 
 This repo builds the map shown above. 
 
-We used this map to plan "bikestreeting" in October 2026. It might be useful
-to build on this map in the future (or maybe for E-day?)
+[Try it!](https://neilk.github.io/mobi-density).
+
+I hacked this together in a day or two, to help plan an outreach to bicyclists during the 
+2026 Vancouver municipal elections. We called it "bikestreeting".
 
 ## What's "bikestreeting"?
 
@@ -17,9 +19,9 @@ to build on this map in the future (or maybe for E-day?)
 * It helps if they are stopped or not moving quickly
 * And, not within 100m of a polling place
 
-This repo took a data-driven, possibly *too* data-driven approach.
+One of the campaign directors asked for a data-driven approach. I may have overdelivered.
 
-## What we did
+## What I did
 
 ### Map
 
