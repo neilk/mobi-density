@@ -4,7 +4,7 @@
 
 This repo builds the map shown above. 
 
-[Try it!](https://neilk.github.io/mobi-density).
+### 👉 [Try it!](https://neilk.github.io/mobi-density)
 
 I hacked this together in a day or two, to help plan an outreach to bicyclists during the 
 2026 Vancouver municipal elections. We called it "bikestreeting".
